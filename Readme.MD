@@ -1,4 +1,4 @@
-## linux or WSL(idk haven't tried)
+## linux
 
 Need `pdfgrep`
 
