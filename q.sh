@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# AI CODE :D
+
 directory="PhilNITS FE Past Exams"
 
 cd "${directory}" || { echo "Error: Directory not found"; exit 1; }
