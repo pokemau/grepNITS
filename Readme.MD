@@ -1,8 +1,9 @@
 ## linux
 
-Need `pdfgrep`
+Install `pdfgrep`
 
 `chmod +x q.sh`
+run `q.sh`
 
 # Search Term
 separate search terms with '|' <br/>
